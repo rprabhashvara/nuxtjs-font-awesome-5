@@ -1,0 +1,19 @@
+{
+  "name": "@rprabhashvara/nuxtjs-font-awesome-5",
+  "version": "1.0.0",
+  "description": "Font Awesome 5 as a Nuxt.js module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rprabhashvara/nuxtjs-font-awesome-5.git"
+  },
+  "author": "Randika Prabhashvara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rprabhashvara/nuxtjs-font-awesome-5/issues"
+  },
+  "homepage": "https://github.com/rprabhashvara/nuxtjs-font-awesome-5#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.0"
+  }
+}
